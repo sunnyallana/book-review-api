@@ -1,6 +1,6 @@
-# Express.js Book Review System
+# Book Review API
 
-The Express.js Book Review System is a web application that allows registered users to add, modify, and delete book reviews. It utilizes JSON Web Tokens (JWT) for user authentication and sessions for managing user sessions.
+The Book Review API is a web service built using Node.js and Express.js that facilitates the management of book reviews. Registered users can add, modify, and delete book reviews, while also accessing information about books based on ISBN, author, and title. The API incorporates JSON Web Tokens (JWT) for user authentication and session management.
 
 **Author: Sunny Allana**  
 **GitHub: [Sunny Allana](https://github.com/sunnyallana/)** <br/>
@@ -44,7 +44,7 @@ To run the project locally, follow these steps:
     ```
 The application will be available at http://localhost:5000.
 
-## Usage
+## API Endpoints
 1. Register a User:
     ```bash
     POST /register
@@ -103,7 +103,7 @@ Get a list of books with a specific title.
     ```bash
     GET /review/:isbn
     ```
-
+    
 Get reviews for a specific book based on the ISBN.
 
 License
