@@ -3,8 +3,8 @@
 The Express.js Book Review System is a web application that allows registered users to add, modify, and delete book reviews. It utilizes JSON Web Tokens (JWT) for user authentication and sessions for managing user sessions.
 
 **Author: Sunny Allana**  
-**GitHub: [Sunny Allana](https://github.com/sunnyallana/)**
-**LinkedIn: [Sunny Allana](https://www.linkedin.com/in/sunnyallana/)**
+**GitHub: [Sunny Allana](https://github.com/sunnyallana/)** <br/>
+**LinkedIn: [Sunny Allana](https://www.linkedin.com/in/sunnyallana/)** <br/>
 **Instagram: [Sunny Allana](https://www.instagram.com/imsunnyallana/)**
 
 ## Features
